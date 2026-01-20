@@ -1,12 +1,33 @@
-# Alice - Desenvolvedora em Construção.🛡️⚡
+# Alice | Desenvolvedora de Sistemas & Estudante de Cibersegurança🛡️⚡
 
-_"Vim da curiosidade. E transformei em linhas de código."_
+_"Transformando a curiosidade em soluções seguras e automações eficientes."_
 
 
-### Minha Jornada Atual:
+### 🔍 Sobre Mim
+* 🎓 **Educação:** Cursando Análise e Desenvolvimento de Sistemas.
+* 💻 **Estudos Atuais:** Focada em **Python**.
+* 🛡️ **Segurança:** Iniciando jornada no **TryHackMe**, com foco em fundamentos de Red Team.
+* 🌐 **Redes:** Estudando protocolos TCP/IP e infraestrutura de redes.
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
-- 🎨 Dando vida a ideias com **HTML, CSS e JavaScript**.
-- 📡 Explorando os bastidores da internet e desvendando os segredos do **TCP/IP** e das **Redes de Computadores**.
-- 🕵️‍♂️ No início da minha trilha em **Cibersegurança**, com a mira no universo **Red Team**. Quero aprender a atacar para saber como defender.
-- 💡 Sempre aprendendo e buscando novos desafios.
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Desenvolvimento:**
+* **Linguagens:** Python, HTML5 e CSS3.
+* **Ambiente:** VS Code e Linux Mint (foco em terminal).
+
+**Segurança e Estudos:**
+* **Plataformas:** freeCodeCamp (Python) e TryHackMe (Cibersegurança).
+* **Método:** Aprendizado prático baseado em projetos e pesquisa ativa.
+
+---
+
+### 📈 Minha Jornada
+* [x] Projeto de automação finalizado: Conversor de Texto para Áudio.
+
+
+---
+
+### 📫 Conecte-se comigo
+* Sempre em busca de entender a lógica por trás de cada linha de código.
